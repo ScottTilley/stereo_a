@@ -8,4 +8,4 @@ Time of file IQ start in YYYYMMDD_HHMMSS UTC, it takes a few frames before the d
 
 The antenna used is a 66cm prime focus dish.  
 
-MJD.jpeg
+![My Image](https://github.com/ScottTilley/Artemis1/blob/main/Mission_planning/Art1_Dop.png)
