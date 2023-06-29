@@ -15,7 +15,7 @@ Time of file IQ start in YYYYMMDD_HHMMSS UTC, it takes a few frames before the d
 
 The antenna used is a 66cm prime focus dish.  
 
-![My Image](https://github.com/ScottTilley/stereo_a/blob/main/MJD.jpeg)https://github.com/ScottTilley/stereo_a/blob/main/MJD.jpeg)
+![My Image](https://github.com/ScottTilley/stereo_a/blob/main/MJD.jpeg)
 
 An example of the data collected compared to the NASA data.
 
@@ -24,7 +24,12 @@ An example of the data collected compared to the NASA data.
 ![My Image](https://github.com/ScottTilley/stereo_a/blob/main/beacon_waves.png)
 Source: https://stereo-ssc.nascom.nasa.gov/beacon/beacon_insitu.shtml
 
+Live STEREO-A deep space beacon images can be found here: https://stereo-ssc.nascom.nasa.gov/beacon/beacon_secchi.shtml
+
 Credits and Links:
 Decoding the STEREO-A space weather beacon, Daniel Estévez, https://destevez.net/2022/09/decoding-the-stereo-a-space-weather-beacon/
+
 Satdump - A generic satellite data processing software, @Aang23, https://www.satdump.org/
+
 NASA'S Stereo Website, https://stereo.gsfc.nasa.gov/
+
